@@ -1,0 +1,24 @@
+ul{
+	text-align: center;
+}
+
+ul li {
+	border-top: solid;
+
+	margin-left: -10px;
+	margin-right: -12px;
+	background-color: white;
+
+}
+
+
+header{
+	border: solid black 2px;
+}
+	#chicken, #beef, #sushi{
+		color: black;
+	}
+	
+.menu-content{
+	padding: 10px;
+}
